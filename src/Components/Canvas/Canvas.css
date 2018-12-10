@@ -1,0 +1,11 @@
+.canvas-frame {
+    display: flex;
+    width:800px;
+    align-self: center;
+    height:90%;
+    z-index: 10;
+    background-image: url('../../assets/background.jpeg');
+    color: white;
+    margin: auto;
+    margin-top:20px; 
+}

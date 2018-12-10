@@ -1,0 +1,9 @@
+.scroll {
+    display: flex;
+    justify-content: center;
+}
+
+.scroll-pageNumber-display {
+    display: flex;
+    align-items: center;
+}
